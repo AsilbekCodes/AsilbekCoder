@@ -40,24 +40,16 @@ Proficient in <strong>JavaScript, PHP, Python, and Django</strong> — focused o
   <table>
     <tr>
       <td align="center">
-        <img src="https://flagcdn.com/w40/tj.png" width="32" alt="Tajikistan Flag">
-        <p><strong>Tajik</strong></p>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/w40/ir.png" width="32" alt="Iran Flag">
-        <p><strong>Persian</strong></p>
-      </td>
-      <td align="center">
         <img src="https://flagcdn.com/w40/uz.png" width="32" alt="Uzbekistan Flag">
         <p><strong>Uzbek</strong></p>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/w40/ru.png" width="32" alt="Russia Flag">
-        <p><strong>Russian</strong></p>
-      </td>
-      <td align="center">
         <img src="https://flagcdn.com/w40/gb.png" width="32" alt="UK Flag">
         <p><strong>English</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w40/ru.png" width="32" alt="Russia Flag">
+        <p><strong>Russian</strong></p>
       </td>
     </tr>
   </table>
