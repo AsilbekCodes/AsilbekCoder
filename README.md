@@ -24,7 +24,7 @@ Proficient in <strong>JavaScript, PHP, Python, and Django</strong> — focused o
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
-      4th-Year Student<br/>Samarkand State University
+      1th-Year Student<br/>Samarkand State University
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
